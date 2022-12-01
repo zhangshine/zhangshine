@@ -1,4 +1,4 @@
 My Projects
 ---
-- Backgroud SVG generator: https://bgjar.com
+- SVG backgroud generator: https://bgjar.com
 - Online invitations, cards, binder covers and word art generator: https://inkpx.com
